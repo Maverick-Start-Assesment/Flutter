@@ -160,7 +160,7 @@ Pick one segment and build the app tailored to their use case:
 
 ## 💬 Questions?
 
-Please reach out through the Maverick Program Slack/Telegram channel if you need clarification.
+Please reach out through the team via email to ravens@payd.money if you need clarification.
 
 ---
 
