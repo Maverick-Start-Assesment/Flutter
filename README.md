@@ -124,6 +124,7 @@ Pick one segment and build the app tailored to their use case:
    - Tech stack and libraries used
    - Setup instructions to run the app
    - Your product thinking (why you built what you built)
+   - A brief explanation on the architecture of choice used to develop the app
    - (Optional) Link to a Loom or YouTube video walkthrough
 4. Once complete, **make the repo public and share via email** to ravens@payd.money for review
 
